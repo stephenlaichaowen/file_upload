@@ -1,31 +1,20 @@
 # NodeUploads
 
-An example of how to upload images locally with Node.js and Multer.
+> This projects demos how to upload files (images) to express server using Multer
+
+### Technologies
+- frontend: ejs
+- backend: express/node
 
 ### Version
 1.0.0
 
-## Usage
-
-### Installation
-
-Install the dependencies
-
+### Instructions
 ```sh
-$ npm install
+# install dependencies
+npm i
+
+# start server
+npm start
 ```
 
-### Serve
-To serve in the browser
-
-```sh
-$ npm start
-```
-
-### Version
-
-1.0.0
-
-### License
-
-This project is licensed under the MIT License
