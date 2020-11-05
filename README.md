@@ -22,13 +22,6 @@ To serve in the browser
 $ npm start
 ```
 
-## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
 ### Version
 
 1.0.0
